@@ -14,6 +14,8 @@ Analysis on a bone tumor dataset.
 ### Project aim
 This analysis aims to provide insights into bone tumor based on various factors such as gender, age group etc. By so doing, we seek to indentify trends such as incidence, prevalence, and outcome of treatment methods. Also to make data-driven recommendations and gain deeper understanding of bone tumor.
 
+![image_bone_tumor](https://github.com/Radiyyah/Bone_Tumor_Overview/assets/104059612/da55c4b2-8347-475f-bd22-a675b09e6517)
+
 ## Data source
 The dataset used was gotten from [kaggle](https://www.kaggle.com/datasets/antimoni/bone-tumor). It is a CSV file and explanation on the 9 different columns of data were provided.
 
